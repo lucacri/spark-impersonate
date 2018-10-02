@@ -1,0 +1,30 @@
+{
+    "name": "lucacri/spark-impersonate",
+    "description": "A Laravel Nova field allows you to authenticate as your users with Spark.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "spark"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lucacri\\SparkImpersonate\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lucacri\\SparkImpersonate\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
