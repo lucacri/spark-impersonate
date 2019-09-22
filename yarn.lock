@@ -478,6 +478,10 @@ babel-plugin-syntax-exponentiation-operator@^6.8.0:
   version "6.13.0"
   resolved "http://registry.npmjs.org/babel-plugin-syntax-exponentiation-operator/-/babel-plugin-syntax-exponentiation-operator-6.13.0.tgz#9ee7e8337290da95288201a6a57f4170317830de"
 
+babel-plugin-syntax-jsx@^6.18.0:
+  version "6.18.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz#0af32a9a6e13ca7a3fd5069e62d7b0f58d0d8946"
+
 babel-plugin-syntax-object-rest-spread@^6.8.0:
   version "6.13.0"
   resolved "http://registry.npmjs.org/babel-plugin-syntax-object-rest-spread/-/babel-plugin-syntax-object-rest-spread-6.13.0.tgz#fd6536f2bce13836ffa3a5458c4903a597bb3bf5"
@@ -4103,10 +4107,11 @@ laravel-mix@1.7.2:
     webpack-notifier "^1.5.0"
     yargs "^8.0.1"
 
-laravel-nova@1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/laravel-nova/-/laravel-nova-1.0.4.tgz#c9945031d3545aa933352b48363a574f068bb861"
+laravel-nova@1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/laravel-nova/-/laravel-nova-1.0.9.tgz#66ec4cbc1eb896ce058d0a6451e5e24a68888038"
   dependencies:
+    babel-plugin-syntax-jsx "^6.18.0"
     form-backend-validation "^2.3.3"
     inflector-js "^1.0.1"
 
