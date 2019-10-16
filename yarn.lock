@@ -3342,9 +3342,9 @@ https-browserify@^1.0.0:
   resolved "https://npm.critel.li/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-husky@^3.0.9:
+husky@3.0.9:
   version "3.0.9"
-  resolved "https://npm.critel.li/husky/-/husky-3.0.9.tgz#a2c3e9829bfd6b4957509a9500d2eef5dbfc8044"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-3.0.9.tgz#a2c3e9829bfd6b4957509a9500d2eef5dbfc8044"
   integrity sha512-Yolhupm7le2/MqC1VYLk/cNmYxsSsqKkTyBhzQHhPK1jFnC89mmmNVuGtLNabjDI6Aj8UNIr0KpRNuBkiC4+sg==
   dependencies:
     chalk "^2.4.2"
@@ -5828,9 +5828,9 @@ safe-regex@^1.1.0:
   resolved "https://npm.critel.li/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass-loader@8.*:
+sass-loader@8.0.0:
   version "8.0.0"
-  resolved "https://npm.critel.li/sass-loader/-/sass-loader-8.0.0.tgz#e7b07a3e357f965e6b03dd45b016b0a9746af797"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-8.0.0.tgz#e7b07a3e357f965e6b03dd45b016b0a9746af797"
   integrity sha512-+qeMu563PN7rPdit2+n5uuYVR0SSVwm0JsOUsaJXzgYcClWSlmX0iHDnmeOobPkf5kUglVot3QS6SyLyaQoJ4w==
   dependencies:
     clone-deep "^4.0.1"
@@ -5839,9 +5839,9 @@ sass-loader@8.*:
     schema-utils "^2.1.0"
     semver "^6.3.0"
 
-sass@^1.23.0:
+sass@1.23.0:
   version "1.23.0"
-  resolved "https://npm.critel.li/sass/-/sass-1.23.0.tgz#bd526ff40dbc5d09a4ed69e2cffa849749977710"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.23.0.tgz#bd526ff40dbc5d09a4ed69e2cffa849749977710"
   integrity sha512-W4HT8+WE31Rzk3EPQC++CXjD5O+lOxgYBIB8Ohvt7/zeE2UzYW+TOczDrRU3KcEy3+xwXXbmDsOZFkoqgD4TKw==
   dependencies:
     chokidar ">=2.0.0 <4.0.0"
@@ -6781,9 +6781,9 @@ vue-style-loader@^4.1.0:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-template-compiler@^2.6.10:
+vue-template-compiler@2.6.10:
   version "2.6.10"
-  resolved "https://npm.critel.li/vue-template-compiler/-/vue-template-compiler-2.6.10.tgz#323b4f3495f04faa3503337a82f5d6507799c9cc"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.10.tgz#323b4f3495f04faa3503337a82f5d6507799c9cc"
   integrity sha512-jVZkw4/I/HT5ZMvRnhv78okGusqe0+qH2A0Em0Cp8aq78+NK9TII263CDVz2QXZsIT+yyV/gZc/j/vlwa+Epyg==
   dependencies:
     de-indent "^1.0.2"
