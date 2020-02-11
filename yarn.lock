@@ -1934,9 +1934,9 @@ create-hmac@^1.1.0, create-hmac@^1.1.2, create-hmac@^1.1.4:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-cross-env@^5.0.0:
+cross-env@5.2.1:
   version "5.2.1"
-  resolved "https://npm.critel.li/cross-env/-/cross-env-5.2.1.tgz#b2c76c1ca7add66dc874d11798466094f551b34d"
+  resolved "https://registry.yarnpkg.com/cross-env/-/cross-env-5.2.1.tgz#b2c76c1ca7add66dc874d11798466094f551b34d"
   integrity sha512-1yHhtcfAd1r4nwQgknowuUNfIT9E8dOMMspC36g45dN+iD1blloi7xp8X/xAIDnjHWyt1uQ8PHk2fkNaym7soQ==
   dependencies:
     cross-spawn "^6.0.5"
@@ -4022,9 +4022,9 @@ https-browserify@^1.0.0:
   resolved "https://npm.critel.li/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-husky@^3.0.9:
+husky@3.0.9:
   version "3.0.9"
-  resolved "https://npm.critel.li/husky/-/husky-3.0.9.tgz#a2c3e9829bfd6b4957509a9500d2eef5dbfc8044"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-3.0.9.tgz#a2c3e9829bfd6b4957509a9500d2eef5dbfc8044"
   integrity sha512-Yolhupm7le2/MqC1VYLk/cNmYxsSsqKkTyBhzQHhPK1jFnC89mmmNVuGtLNabjDI6Aj8UNIr0KpRNuBkiC4+sg==
   dependencies:
     chalk "^2.4.2"
@@ -4814,9 +4814,9 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://npm.critel.li/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
   integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
 
-laravel-mix@^1.0:
+laravel-mix@1.7.2:
   version "1.7.2"
-  resolved "https://npm.critel.li/laravel-mix/-/laravel-mix-1.7.2.tgz#4bf8444202948ce18f9cfd2e2508f82ea06106fe"
+  resolved "https://registry.yarnpkg.com/laravel-mix/-/laravel-mix-1.7.2.tgz#4bf8444202948ce18f9cfd2e2508f82ea06106fe"
   integrity sha512-La1eAsCkEdySc9J9MJ/g8Dj1EfGo7aXW92GZKoSbrSg4uQWNNoV824e6+o4f4Eo/YWYrYwZTkdnWJJ1uVqP+dw==
   dependencies:
     autoprefixer "^7.1.1"
@@ -4856,9 +4856,9 @@ laravel-mix@^1.0:
     webpack-notifier "^1.5.0"
     yargs "^8.0.1"
 
-laravel-nova@^1.0:
+laravel-nova@1.0.9:
   version "1.0.9"
-  resolved "https://npm.critel.li/laravel-nova/-/laravel-nova-1.0.9.tgz#66ec4cbc1eb896ce058d0a6451e5e24a68888038"
+  resolved "https://registry.yarnpkg.com/laravel-nova/-/laravel-nova-1.0.9.tgz#66ec4cbc1eb896ce058d0a6451e5e24a68888038"
   integrity sha512-RsIWK4Lr09w6DpZCa2tZgkncU+Qr9jEor+rErHXyWY1Azjao8i80mdIgXHsCTqc5o9JGWmkGwZ9jqPASzNxF2g==
   dependencies:
     babel-plugin-syntax-jsx "^6.18.0"
@@ -8593,9 +8593,9 @@ vue-template-es2015-compiler@^1.6.0:
   resolved "https://npm.critel.li/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
-vue@^2.5.0:
+vue@2.6.10:
   version "2.6.10"
-  resolved "https://npm.critel.li/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
 
 ware@^1.2.0:
