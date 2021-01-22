@@ -12,7 +12,7 @@
     "devDependencies": {
 
         "cross-env": "5.2.1",
-        "husky": "3.0.9",
+        "husky": "4.3.8",
         "laravel-mix": "1.7.2",
         "laravel-nova": "1.0.9"
     },
